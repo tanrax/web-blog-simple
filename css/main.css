@@ -1,7 +1,7 @@
 body {
     font-family: sans;
     padding: 1rem;
-    color: gray;
+    color: #5e5c64;
 }
 
 .link {
@@ -10,7 +10,7 @@ body {
 }
 
 .header {
-    border-bottom: 1px solid gray;
+    border-bottom: 1px solid #5e5c64;
 }
 
 .header__title {
@@ -46,7 +46,7 @@ body {
 }
 
 .blog__item {
-    border-bottom: 1px solid gray;
+    border-bottom: 1px solid #5e5c64;
     padding-block: 1rem;
 }
 
@@ -55,20 +55,20 @@ body {
 }
 
 .blog__time {
-    color: #a4a4a4;
+    color: #808080;
     font-style: italic;
 }
 
 .link--title-blog {
     font-weight: bold;
     text-decoration: underline;
-    text-decoration-color: gray;
+    text-decoration-color: #5e5c64;
 }
 
 .link--read-more-blog {
     font-style: italic;
     text-decoration: underline;
-    text-decoration-color: gray;
+    text-decoration-color: #5e5c64;
 }
 
 .footer {
